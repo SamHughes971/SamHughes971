@@ -1,7 +1,8 @@
 👋 Hi, my name is Sam
 
 - I have recently started to learn how to code from scratch and willing to learn more!
-- I am currently learning the ins and outs of web development using the 'Odin Project' 
+- I am currently learning the ins and outs of web development using the 'Odin Project'
+- Interests in machine learning and pattern recognition 
 
 
 
