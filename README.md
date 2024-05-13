@@ -2,9 +2,11 @@
 
 - I have recently started to learn how to code from scratch and willing to learn more!
   
-- I am currently learning the ins and outs of web development using the 'Odin Project' (the repositories show my latest works!). If interested, the odin project can be viewed here - https://www.theodinproject.com/
+- I am currently learning the ins and outs of web development using the 'Odin Project' (the repositories show my latest works!). If interested, the resource which i'm primarily using to learn web development can be found here - https://www.theodinproject.com/
   
 - Interests involves machine learning, pattern recognition, web development and probabilistic modelling
+
+  
 
 Thanks for taking the time to read my GitHub profile
 
