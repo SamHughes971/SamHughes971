@@ -6,8 +6,6 @@
   
 - Interests involves machine learning, pattern recognition, web development and probabilistic modelling
 
-  
-
 Thanks for taking the time to read my GitHub profile
 
 
