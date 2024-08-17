@@ -2,7 +2,7 @@
 
 - I have recently started to learn how to code from scratch and willing to learn more!
   
-- I am currently learning the ins and outs of web development using the 'Odin Project' (the repositories show my latest works!)
+- I am currently learning the ins and outs of web development using the 'Odin Project' (the repositories show my latest works)
   
 Thanks for taking the time to read my GitHub profile
 
