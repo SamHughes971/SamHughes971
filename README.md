@@ -1,10 +1,6 @@
-👋 Hi, my name is Sam
-
-- I have recently started to learn how to code from scratch and willing to learn more!
+👋 Hi, my name is Sam. I am currently learning the ins and outs of web development using the 'Odin Project' (the repositories show my latest works) to guide me. Any advice regarding my work would be massively appreciated.
   
-- I am currently learning the ins and outs of web development using the 'Odin Project' (the repositories show my latest works)
-  
-Thanks for taking the time to read my GitHub profile
+Thanks for taking the time to read my GitHub profile!
 
 
 
