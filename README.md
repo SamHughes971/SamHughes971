@@ -1,6 +1,4 @@
 👋 Hi, my name is Sam. I am currently learning the ins and outs of web development using the 'Odin Project' (the repositories show my latest works) to guide me. Any advice regarding my work would be massively appreciated.
-  
-Thanks for taking the time to read my GitHub profile!
 
 
 
