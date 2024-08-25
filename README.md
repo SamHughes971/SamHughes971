@@ -1,4 +1,4 @@
-Hello! I am currently learning the ins and outs of web development using the 'Odin Project' (the repositories show my latest works) to guide me. Any advice regarding my work would be massively appreciated.
+Hello! I am currently learning the ins and outs of web development using the 'Odin Project' (the repositories show my latest works) to guide me. Any advice or suggestions to improve would be massively appreciated.
 
 
 
