@@ -1,6 +1,10 @@
 Hello! 
 
-I am currently learning the ins and outs of web development using the 'Odin Project' (the repositories show my latest works) to guide me. Any advice or suggestions to improve would be massively appreciated.
+I am currently learning the ins and outs of web development using the 'Odin Project' (the repositories show my latest works) to guide me. 
+
+Any advice or suggestions to improve would be massively appreciated.
+
+Thank you for taking the time to read my profile!
 
 
 
