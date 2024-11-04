@@ -2,9 +2,6 @@ Hello!
 
 I am currently learning the ins and outs of web development using the 'Odin Project' (the repositories show my latest works). 
 
-Thank you for taking the time to read my profile!
-
-
 
 <!---
 SamHughes971/SamHughes971 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
