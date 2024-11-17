@@ -1,6 +1,8 @@
 Hello! 
 
-I am currently learning the ins and outs of web development using the 'Odin Project' (the repositories show my latest works). 
+I am currently learning the ins and outs of web development using the 'Odin Project'.
+
+The repositories show my latest works. 
 
 
 <!---
